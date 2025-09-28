@@ -28,14 +28,14 @@ export async function load({ url }) {
                     const metadata = extractMetadata(content);
                     console.log(metadata.visibility)
 
-                    // if (metadata.visibility) {
-                    return {
-                        bookPath: bookPath,
-                        chapterNumber: chapterNumber,
-                        chapterName: chapterName,
-                        content: marked(content),
+                    if (metadata.visibility) {
+                        return {
+                            bookPath: bookPath,
+                            chapterNumber: chapterNumber,
+                            chapterName: chapterName,
+                            content: marked(content),
+                        }
                     }
-                    // }
                 }
             })
 
