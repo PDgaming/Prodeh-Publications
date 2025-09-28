@@ -1,11 +1,5 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
-
 	let data = $props();
-
-	onMount(() => {
-		console.log(data.data);
-	});
 </script>
 
 <div class="bg-base-200 prose prose-lg max-w-none rounded-xl pb-1">
