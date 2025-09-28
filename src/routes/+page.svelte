@@ -2,7 +2,7 @@
 	let data = $props();
 </script>
 
-<div class="bg-base-200 prose prose-lg max-w-none rounded-xl pb-1">
+<div class="prose-lg mt-3 prose max-w-none rounded-xl bg-base-200 pb-1">
 	<ul>
 		{#each data.data.bookNames as book}
 			<li class="cursor-pointer border-b pb-3">
@@ -16,3 +16,12 @@
 		{/each}
 	</ul>
 </div>
+
+<style>
+	.prose {
+		min-height: calc(100vh - 125px);
+	}
+	li:first-child {
+		padding-top: 10px;
+	}
+</style>
