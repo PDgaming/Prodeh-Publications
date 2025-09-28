@@ -1,3 +1,5 @@
+<!-- {"visibility": false} -->
+
   `David’s hand tightened on the doorframe, still warm from where Robert had rested his shoulder against it. He turned, looking at Robert, the questions roaring in his head. Who was that man? What "choice" was Robert being forced to make? But more terrifying than the questions was the man standing before him. David had seen a glimpse of Robert's past, a shadow of the person he had been. Tonight, he'd seen it flicker to life, a raw, protective fury in Robert's eyes, a dangerous coiled tension in his body. The gentle man I know... he was ready to kill, David thought, a cold knot forming in his stomach. The threat wasn't just on his porch anymore. It was in his home, present in the quiet stranger he loved. It had seeped into the very air, staining the comforting warmth of his living room with a chilling new reality. His world, once a tranquil haven, had just expanded to include a darkness he was utterly unprepared for, and it centered around the man who was now looking at him with such profound anxiety.`
 
   `- "Robert," David said quietly, his voice taut with the weight of the moment, "do you know this guy?"`

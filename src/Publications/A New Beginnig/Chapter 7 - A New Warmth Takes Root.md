@@ -1,3 +1,5 @@
+<!-- {"visibility": false} -->
+
   `The first thing David registered when he woke was the gentle, ethereal light filtering through the blinds, painting soft, pale stripes across the ceiling. It felt almost angelic, a profound sense of peace settling over him, chasing away the usual quiet ache of waking alone. He lay still for a moment, simply breathing, letting the warmth of the sun-drenched room seep into him. He reached out a hand, fingers reaching for the familiar, comforting weight beside him, but his palm met only the cool, empty sheet.`
 
   `Robert wasn't there.`

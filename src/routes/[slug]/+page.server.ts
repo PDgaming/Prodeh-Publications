@@ -1,3 +1,4 @@
+import { extractMetadata } from '$lib/utils/extractMetadata';
 import { error } from '@sveltejs/kit';
 import { marked } from 'marked';
 
@@ -24,13 +25,17 @@ export async function load({ url }) {
                     // console.log(chapterNumber)
                     const content = mod.default;
                     // console.log(content)
+                    const metadata = extractMetadata(content);
+                    console.log(metadata.visibility)
 
+                    // if (metadata.visibility) {
                     return {
                         bookPath: bookPath,
                         chapterNumber: chapterNumber,
                         chapterName: chapterName,
                         content: marked(content),
                     }
+                    // }
                 }
             })
 
@@ -39,9 +44,13 @@ export async function load({ url }) {
             .sort((a, b) => a.chapterNumber - b.chapterNumber);
 
         return {
+            status: 200,
             chapters: sortedChapters
         };
     } catch (err) {
-        throw error(500, 'Failed to load blog posts');
+        return {
+            status: 500,
+            chapters: undefined
+        }
     }
 }

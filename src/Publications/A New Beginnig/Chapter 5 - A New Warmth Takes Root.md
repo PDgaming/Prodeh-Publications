@@ -1,3 +1,5 @@
+<!-- {"visibility": false} -->
+
   `The diner glowed with a comforting, anachronistic warmth on the edge of the city. Chrome gleamed under soft neon lights, and the scent of frying onions and sweet coffee hung heavy in the air. David had chosen it because it felt… timeless. A place where worries seemed to quiet, replaced by the clatter of plates and the murmur of easy conversation. He’d arrived a few minutes early, as was his habit, smoothing the napkin on the table and trying to quell the flutter in his chest. Each meeting with Robert felt less like a tentative step and more like a gentle, irreversible slide into something wonderful.`
 
   `Robert arrived promptly, pushing open the glass door and letting a gust of cool evening air follow him in. David’s eyes met his, and a genuine smile touched Robert’s lips, softer than the last, less guarded. It sent a surprising jolt of warmth through David.`

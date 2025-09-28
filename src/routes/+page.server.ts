@@ -15,9 +15,13 @@ export async function load() {
         }
         bookNames = Array.from(bookNameSet);
         return {
+            status: 200,
             bookNames
         }
     } catch (err) {
-        throw error(500, 'Failed to load blog posts');
+        return {
+            status: 500,
+            bookNames: undefined
+        }
     }
 }

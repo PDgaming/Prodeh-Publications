@@ -1,3 +1,5 @@
+<!-- {"visibility": false} -->
+
 ***`March 17th`***
 
 *`I wasn’t sure I’d write tonight. It’s been one of those long days—school was chaotic, the kind where every student has some kind of crisis or half-baked excuse. I almost just went straight to bed. But then Robert smiled at me over dinner. One of those rare, unguarded smiles that made everything else fade into the background.`*

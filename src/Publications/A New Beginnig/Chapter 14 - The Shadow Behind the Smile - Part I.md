@@ -1,3 +1,5 @@
+<!-- {"visibility": false} -->
+
 ## `Part I - Beneath the Mask`
 
   `Robert leaned back into the couch, the weight of everything pressing down on him. His hands were clenched, nails digging into his palms, and his mind wandered through the maze of memories he’d buried for years. The room felt too small, too suffocating. The walls were closing in, the quiet hum of the air conditioner almost deafening against the storm in his chest. He had to do this—he had to tell David the truth, even if it meant losing him.`

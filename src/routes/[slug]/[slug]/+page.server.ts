@@ -41,9 +41,13 @@ export async function load({ url }) {
             .filter(Boolean);
 
         return {
+            status: 200,
             chapter: chapter
         };
     } catch (err) {
-        throw error(500, 'Failed to load blog post');
+        return {
+            status: 500,
+            chapter: undefined
+        }
     }
 }

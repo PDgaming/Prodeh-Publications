@@ -1,3 +1,5 @@
+<!-- {"visibility": false} -->
+
 ## `Part II - The Choice Ahead`
 
   `Robert’s confession lingered in the air, thick and unrelenting, as though the very walls were suffocating beneath the weight of his words. His breath came in shallow bursts, the quiet of the room amplifying the sound of his pulse pounding in his ears. David stood motionless across from him, his gaze steady but unreadable, his brow furrowed as he processed what Robert had just shared. But there was no fear in his eyes—only the faintest flicker of something deeper, something more constant: trust.`

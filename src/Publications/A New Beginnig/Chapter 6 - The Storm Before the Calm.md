@@ -1,3 +1,5 @@
+<!-- {"visibility": false} -->
+
   `The walk had been quiet, but it was the kind of silence that wasn’t uncomfortable. It felt like a shared space between them, where words weren’t always necessary. The crunch of leaves underfoot, the distant chirp of crickets, and the soft rustle of wind through the trees created a peaceful soundtrack as they made their way down the narrow path that led toward David's house. Robert walked with his hands shoved deep into his pockets, his hoodie pulled tight against the crisp evening air. David, just a few steps ahead, was his usual upbeat self, smiling at the sight of a dog bounding up to greet them on the trail. Robert gave the dog a distracted pat, his gaze still lost in thought.`
 
   `The dark clouds had been gathering for the last few minutes, but now, as they neared the end of the path, David could see the storm coming in. The distant rumble of thunder was almost a warning, but neither of them said anything about it. Not yet. David felt a nervous tension building within him, a mirror of the atmospheric pressure.`
