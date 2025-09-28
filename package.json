@@ -42,5 +42,8 @@
 		"onlyBuiltDependencies": [
 			"esbuild"
 		]
+	},
+	"dependencies": {
+		"marked": "^16.3.0"
 	}
 }
