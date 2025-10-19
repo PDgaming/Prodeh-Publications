@@ -1,8 +1,8 @@
-<!-- {"visibility": false} -->
+<!-- {"visibility": true} -->
 
   `The café was small and tucked away on a quiet street, the kind of place you wouldn’t notice unless someone told you about it. David sat at a corner table by the window, his fingers idly tracing the rim of his coffee cup. Outside, the world moved on in its usual rhythm; pedestrians hurrying by, cars splashing through puddles left by last night’s rain. But inside, the air was warm, laced with the aroma of roasted beans and the faint hum of soft jazz playing in the background. David had arrived a little early, a nervous flutter in his chest that he hadn’t expected. He found himself looking forward to these meetings with Robert more than he cared to admit, a fresh current in the quiet stream of his life.`
 
-  `The bell over the door jingled, and David looked up to see Robert stepping inside. His usual guarded demeanor seemed lighter today, though his hands were shoved deep into the pockets of his worn jacket. Spotting David, he gave a small nod before making his way over.`
+  `The bell over the door jingled, and David looked up to see Robert stepping inside. His usual guarded demeanor seemed lighter today, though his hands were shoved deep into the pockets of his jacket. Spotting David, he gave a small nod before making his way over.`
 
   `- “You’re early,” David said with a smile, gesturing to the empty chair across from him.`
 
@@ -46,7 +46,7 @@
 
   `- "I should get going," Robert said quietly, his voice almost apologetic.`
 
-  `David watched as Robert turned to leave, his footsteps crunching softly against the gravel path. For a second, Robert paused, glancing back over his shoulder. Their eyes met, and David offered him a small, encouraging smile—a silent reassurance that there was no judgment here, only understanding.`
+  `David watched as Robert turned to leave, his footsteps crunching softly against the gravel path. For a second, Robert paused, glancing back over his shoulder. Their eyes met, and David offered him a small, encouraging smile, a silent reassurance that there was no judgment here, only understanding.`
 
   `Robert hesitated, then gave a faint smile in return. "Thanks, David. For listening."`
 
