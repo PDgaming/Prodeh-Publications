@@ -1,4 +1,4 @@
-<!-- {"visibility": false} -->
+<!-- {"visibility": true} -->
 
   `The next day, a sharp ring of the doorbell pulled David from grading a particularly dreadful essay on Elizabethan poetry. He rarely had visitors, especially on a Tuesday afternoon. With a furrowed brow, he approached the door, peering through the peephole. His breath hitched.`
 
