@@ -1,4 +1,4 @@
-<!-- {"visibility": false} -->
+<!-- {"visibility": true} -->
 
   `The Rain lashes against the train window, blurring the outside world as the train rattles gently over the tracks, its motion rhythmic, hypnotic. The world outside blurring into gray. The buildings and trees dissolving into a smeared grey, washed together under a thick curtain of rain. Water streaked down the window in twisting rivulets, tiny, desperate rivers with nowhere to go.`
 
