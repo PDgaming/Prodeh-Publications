@@ -1,4 +1,4 @@
-<!-- {"visibility": false} -->
+<!-- {"visibility": true} -->
 
   `The walk had been quiet, but it was the kind of silence that wasn’t uncomfortable. It felt like a shared space between them, where words weren’t always necessary. The crunch of leaves underfoot, the distant chirp of crickets, and the soft rustle of wind through the trees created a peaceful soundtrack as they made their way down the narrow path that led toward David's house. Robert walked with his hands shoved deep into his pockets, his hoodie pulled tight against the crisp evening air. David, just a few steps ahead, was his usual upbeat self, smiling at the sight of a dog bounding up to greet them on the trail. Robert gave the dog a distracted pat, his gaze still lost in thought.`
 
@@ -6,13 +6,13 @@
 
   `- "Looks like it's going to rain," David said lightly, glancing over his shoulder at Robert with a grin. "Not that it bothers me much."`
 
-  `Robert didn't respond at first. David noticed his eyes flicking to the darkening sky, a subtle shift in his posture, a heightened awareness David hadn't seen before. The silence thickened, almost like a pressure in the air between them. They’d walked this way countless times now, but this time felt different, charged. Robert’s quiet intensity was a physical presence beside him.`
+  `Robert didn't respond at first. David noticed his eyes flicking to the darkening sky, a subtle shift in his posture, a heightened awareness David hadn't seen before. The silence thickened, almost like a pressure in the air between them. They’d walked this way countless times now, but this time felt different, it felt charged. Robert’s quiet intensity was a physical presence beside him.`
 
   `Before he could speak, the first cold drop of rain hit his cheek, and then, without warning, the sky opened up. A deluge came pouring down, soaking them both almost instantly. The path ahead was already turning into a small river, and the rain fell in thick sheets, turning everything into a blur of water and dark shadows.`
 
   `David let out a startled laugh. "Well, this is something, huh?" David said as he wiped his soaked face. Robert could only nod, his hair already plastered to his forehead, his hoodie dripping as the downpour drummed against the ground.`
 
-  `The rain was relentless, but there was something oddly freeing about it—the world around them seemed to blur, and for a moment, it felt like everything else faded away.`
+  `The rain was relentless, but there was something oddly freeing about it; the world around them seemed to blur, and for a moment, it felt like everything else faded away.`
 
   `- "I guess we’re stuck," David said, turning back toward the house, and waving for Robert to follow. "Might as well take shelter."`
 
@@ -46,13 +46,13 @@
 
   `Robert froze. David watched his chest rise and fall rapidly, his eyes wide, searching David’s face, looking for some kind of explanation for this confession, but all he found was sincerity.`
 
-  `Robert swallowed hard, his breath catching. "I… I... like you too," he said, barely above a whisper, but the weight of the words hung heavy between them. But then the words spilled out before David could stop them. "But you don’t understand, David. I’m not... I'm not someone you should get close to. People like you—good, decent people—they shouldn’t be with someone like me. I’ll only bring you danger."`
+  `Robert swallowed hard, his breath catching. "I… I... like you too," he said, barely above a whisper, but the weight of the words hung heavy between them. But then the words spilled out before he could stop them. "But you don’t understand, David. I’m not... I'm not someone you should get close to. People like you—good, decent people—they shouldn’t be with someone like me. I’ll only bring you danger."`
 
   `David’s gaze softened, his eyes unwavering as he stepped closer. The storm raged on, but here, in the quiet of David’s living room, it was like time had slowed down. "Robert," he said gently, his voice firm but full of understanding. "You don’t have to be perfect. You don’t have to have a perfect past. I like you for who you are. All of you. I don’t care about what’s happened before. I just care about you. Right here. Right now."`
 
-  `For a moment, David watched Robert's face, his heart pounding in his chest. Robert couldn’t breathe, and David could see. He hadn’t expected this kind of understanding–especially not from someone like David. Robert's chest ached, torn between wanting to believe him and the fear of pulling David into a world he didn’t deserve to be a part of. But David was standing there, his eyes steady, unshaken by Robert’s fears.`
+  `For a moment, David watched Robert's face, his heart pounding in his chest. Robert couldn’t breathe, and David could see. He hadn’t expected this kind of understanding. Especially not from someone like David. Robert's chest ached, torn between wanting to believe him and the fear of pulling David into a world he didn’t deserve to be a part of. But David was standing there, his eyes steady, unshaken by Robert’s fears.`
 
-  `The air between them was heavy with unspoken words, the storm outside matching the ones brewing inside Robert’s chest. David stood there, so close that Robert could feel the warmth radiating off him, and yet David couldn't shake the feeling of being on the edge of something too big to handle.`
+  `The air between them was heavy with unspoken words, the storm outside matching the ones brewing inside their chests. David stood there, so close that Robert could feel the warmth radiating off him, and yet David couldn't shake the feeling of being on the edge of something too big to handle.`
 
   `But before Robert could say anything else, David reached out, his hands framing Robert’s face, pulling him in with a quiet intensity, his touch both steady and hesitant. Without another word, their lips met in a kiss that was soft at first, tentative, like they were both testing the waters. But then it deepened as everything between them shifted and the world seemed to fade away, leaving just the two of them in that moment.`
 
@@ -80,6 +80,6 @@
 
   `The night unfolded in a haze of soft touches, quiet whispers, and the overwhelming feeling of being completely and utterly vulnerable. David learned the feel of Robert’s skin, the rise and fall of his breath against his cheek, the quiet gasps Robert made when David touched him in just the right way. They moved together, learning the rhythm of each other’s bodies, giving and receiving, unsure but completely present in the moment.`
 
-  `And when it was over, when the world outside was finally still, they lay together in the warmth of David’s bed, close but still unsure, tangled in the sheets, both of them wide awake and feeling something they hadn’t expected—a deep connection, fragile but real. Their bodies ached, but it was a good ache, one that spoke of a new beginning and trust.`
+  `And when it was over, when the world outside was finally still, they lay together in the warmth of David’s bed, close but still unsure, tangled in the sheets, both of them wide awake and feeling something they hadn’t expected; a deep connection, fragile but real. Their bodies ached, but it was a good ache, one that spoke of a new beginning and trust.`
 
   `They didn’t speak much that night, both too filled with emotion to find the right words. They fell asleep together, wrapped up in the quiet, in the soft glow of a moment they would both remember forever.`
