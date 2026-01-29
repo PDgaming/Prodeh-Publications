@@ -1,18 +1,20 @@
 <script lang="ts">
 	let data = $props();
-	const chapters = data.data.chapters;
+	const parts = data.data.parts;
+
+    // console.log(parts)
 </script>
 
-{#if chapters != undefined}
+{#if parts != undefined}
 	<div class="prose-lg mt-3 prose max-w-none rounded-xl bg-base-200 pb-1">
 		<ul>
-			{#each chapters as chapter}
+			{#each parts as part}
 				<li class="cursor-pointer border-b pb-3">
 					<a
-						href="/{chapter.bookPath.replaceAll(' ', '_')}"
+						href="/{data.data.bookName.replaceAll(" ", "_")}/{part.replaceAll(" ", "_")}"
 						class="text-2xl font-semibold text-yellow-900 hover:text-yellow-700"
 					>
-						{chapter.chapterName}
+						{part}
 					</a>
 				</li>
 			{/each}

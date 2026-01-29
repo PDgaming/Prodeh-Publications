@@ -1,19 +1,32 @@
 <script lang="ts">
 	let data = $props();
-	const chapter = data.data.chapter[0];
+	const chapters = data.data.chapters;
 </script>
 
-{#if chapter != undefined}
-	<div class="prose-lg mt-3 prose flex max-w-none flex-col gap-5 rounded-xl bg-base-200 p-2">
-		<div class="metadata">
-			<h1 class="text-3xl font-bold underline">{chapter.chapterName.replace('.md', '')}</h1>
-		</div>
-		<div class="content">
-			{@html chapter.content
-				.replace('<h1>', '<h1 class="text-2xl">')
-				.replace('<h2>', '<h1 class="text-xl">')}
-		</div>
+{#if chapters != undefined}
+	<div class="prose-lg mt-3 prose max-w-none rounded-xl bg-base-200 pb-1">
+		<ul>
+			{#each chapters as chapter}
+				<li class="cursor-pointer border-b pb-3">
+					<a
+						href="/{chapter.bookPath.replaceAll(' ', '_')}"
+						class="text-2xl font-semibold text-yellow-900 hover:text-yellow-700"
+					>
+						{chapter.chapterName}
+					</a>
+				</li>
+			{/each}
+		</ul>
 	</div>
 {:else}
-	<p>There was an error loading the chapter...</p>
+	<p>There was an error loading the chapters...</p>
 {/if}
+
+<style>
+	.prose {
+		min-height: calc(100vh - 125px);
+	}
+	li:first-child {
+		padding-top: 10px;
+	}
+</style>
