@@ -1,3 +1,4 @@
+import { extractMetadata } from '$lib/utils/extractMetadata.js';
 import { marked } from 'marked';
 
 export async function load({ url }) {
@@ -11,36 +12,48 @@ export async function load({ url }) {
 		});
 		// console.log(allChapters)
 
-		const chapter = Object.entries(allChapters)
-			.map(([path, mod]: any) => {
+		const chapterData = Object.entries(allChapters)
+			.map(([path, mod]: [string, any]) => {
 				let bookName = path.replace('/src/Publications/', '').split('/')[0];
-				// console.log(bookName)
+				// console.log(bookName);
 				let part = path.replace(`/src/Publications/${bookName}`, '').split('/')[1];
 				// console.log(part);
 				if (bookName == slug.split('/')[0] && part == slug.split('/')[1]) {
 					const bookPath = path.replace('/src/Publications/', '');
-					const chapterName = bookPath.replace(`${slug}/`, '');
+					// console.log(bookPath);
+					const chapterName = bookPath;
 					// console.log(chapterName);
-					const chapterNumber = Number(bookPath.replace(`${slug}/Chapter `, '').split(' -')[0]);
-					// console.log(chapterNumber)
+					const chapterNumber = Number(bookPath.split('/')[2].split(' ')[1].split('.')[0]);
+					// console.log(chapterNumber);
 					if (chapterName == slug) {
-						const content = mod.default;
 						// console.log(content)
 
-						return {
-							bookPath: bookPath,
-							chapterNumber: chapterNumber,
-							chapterName: chapterName.split('/')[2],
-							content: marked(content)
-						};
+						const metadata = extractMetadata(mod.default);
+
+						if (metadata.visibility) {
+							return {
+								bookPath: bookPath,
+								chapterNumber: chapterNumber,
+								chapterName: chapterName.split('/')[2],
+								content: marked.parse(mod.default)
+							};
+						} else {
+							return;
+						}
 					}
 				}
 			})
 			.filter(Boolean);
 
+		const resolvedChapter = chapterData[0]
+			? {
+					...chapterData[0],
+					content: await chapterData[0].content
+				}
+			: undefined;
+
 		return {
-			status: 200,
-			chapter: chapter
+			chapter: resolvedChapter
 		};
 	} catch (err) {
 		return {
