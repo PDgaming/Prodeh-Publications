@@ -1,4 +1,4 @@
-<!-- {"visibility": false} -->
+<!-- {"visibility": true} -->
 
 The cafe nestled along a forgotten stretch of road. Inside, the warm light spilled onto the worn wooden tables, creating a cozy haven from the bustling world outside.
 
