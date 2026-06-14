@@ -9,22 +9,12 @@
       .replace('<h1>', '<h1 class="text-2xl">')
       .replace('<h2>', '<h1 class="text-xl">') || '',
   );
-  const chapterSegments = $derived(chapter ? chapter.bookPath.split('/') : []);
-  const isFlat = $derived(chapterSegments.length === 2);
-  const bookPath = $derived(
-    chapter
-      ? isFlat
-        ? chapterSegments[0]
-        : `${chapterSegments[0]}/${chapterSegments[1]}`
-      : '',
-  );
-  const hasPrevious = $derived(chapter?.hasPrevious ?? false);
-  const hasNext = $derived(chapter?.hasNext ?? false);
-  const previousChapter = $derived(
-    chapter ? `Chapter ${chapter.chapterNumber - 1}.md` : '',
-  );
-  const nextChapter = $derived(
-    chapter ? `Chapter ${chapter.chapterNumber + 1}.md` : '',
+
+  const bookPath = $derived(chapter ? chapter.bookPath.replace(/\/[^/]+$/, '') : '');
+  const nextHref = $derived(
+    chapter?.hasNext
+      ? `/${bookPath.replaceAll(' ', '_')}/Chapter ${chapter.chapterNumber + 1}.md`.replaceAll(' ', '_')
+      : '#',
   );
 </script>
 
@@ -97,40 +87,19 @@
           .replace('\n', '')
           .replace(/\n/g, '<br>\n')}
       </div>
-      <hr>
-      <div class="navigation flex justify-between">
-        <div class="previous">
-          <a
-            href={hasPrevious ? `/${bookPath.replaceAll(' ', '_')}/${previousChapter.replaceAll(' ', '_')}` : "#"}
-            class="btn"
-            class:btn-disabled={!hasPrevious}
-          >
-            <Icon icon="ooui:arrow-next-rtl" class="h-5 w-5" />
-            Previous Chapter
-          </a>
-        </div>
-        <div class="next">
-          <a
-            href={hasNext ? `/${bookPath.replaceAll(' ', '_')}/${nextChapter.replaceAll(' ', '_')}` : "#"}
-            class="btn"
-            class:btn-disabled={!hasNext}
-          >
-            Next Chapter
-            <Icon icon="ooui:arrow-next-ltr" class="h-5 w-5" />
-          </a>
-        </div>
-      </div>
+      <a
+        href={nextHref}
+        class="flex cursor-pointer items-center justify-center gap-2 rounded-md border border-base-300 py-3 text-sm font-semibold transition-all hover:bg-base-300 active:scale-[0.98]"
+        class:pointer-events-none={!chapter.hasNext}
+        class:opacity-30={!chapter.hasNext}
+        aria-disabled={!chapter.hasNext}
+      >
+        Next Chapter
+        <Icon icon="ooui:arrow-next-ltr" class="h-5 w-5" />
+      </a>
     </div>
   {:else}
     <p>There was an error loading the chapter...</p>
   {/if}
 {/if}
 
-<style>
-  .prose {
-    min-height: calc(100vh - 125px);
-  }
-  li:first-child {
-    padding-top: 10px;
-  }
-</style>
