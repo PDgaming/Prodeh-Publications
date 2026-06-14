@@ -54,13 +54,30 @@ export async function load({ url }) {
 		if (!metadata.visibility) return { type: 'chapter', chapter: undefined };
 		const info = parseChapterPath(matchingPath);
 		const content = await marked.parse(mod.default);
+
+		// Determine if previous/next chapters exist in the same context
+		const contextFiles = getChapterFiles(paths, info.book, info.part);
+		const visibleNumbers = new Set<number>();
+		for (const cf of contextFiles) {
+			const cfFullPath = `${PUBLICATIONS}/${cf.path}`;
+			const cfMod = (await allChapters[cfFullPath]()) as { default: string };
+			const cfMetadata = extractMetadata(cfMod.default);
+			if (cfMetadata.visibility) {
+				visibleNumbers.add(cf.number);
+			}
+		}
+		const hasPrevious = visibleNumbers.has(info.number - 1);
+		const hasNext = visibleNumbers.has(info.number + 1);
+
 		return {
 			type: 'chapter',
 			chapter: {
 				bookPath: info.path,
 				chapterNumber: info.number,
 				chapterName: info.name + '.md',
-				content
+				content,
+				hasPrevious,
+				hasNext
 			}
 		};
 	}

@@ -18,11 +18,13 @@
         : `${chapterSegments[0]}/${chapterSegments[1]}`
       : '',
   );
+  const hasPrevious = $derived(chapter?.hasPrevious ?? false);
+  const hasNext = $derived(chapter?.hasNext ?? false);
   const previousChapter = $derived(
-    `Chapter ${Math.max(1, chapter ? chapter.chapterNumber - 1 : 0)}.md`,
+    chapter ? `Chapter ${chapter.chapterNumber - 1}.md` : '',
   );
   const nextChapter = $derived(
-    `Chapter ${chapter ? chapter.chapterNumber + 1 : 0}.md`,
+    chapter ? `Chapter ${chapter.chapterNumber + 1}.md` : '',
   );
 </script>
 
@@ -99,8 +101,9 @@
       <div class="navigation flex justify-between">
         <div class="previous">
           <a
-            href="/{bookPath.replaceAll(' ', '_')}/{previousChapter.replaceAll(' ', '_')}"
+            href={hasPrevious ? `/${bookPath.replaceAll(' ', '_')}/${previousChapter.replaceAll(' ', '_')}` : "#"}
             class="btn"
+            class:btn-disabled={!hasPrevious}
           >
             <Icon icon="ooui:arrow-next-rtl" class="h-5 w-5" />
             Previous Chapter
@@ -108,8 +111,9 @@
         </div>
         <div class="next">
           <a
-            href="/{bookPath.replaceAll(' ', '_')}/{nextChapter.replaceAll(' ', '_')}"
+            href={hasNext ? `/${bookPath.replaceAll(' ', '_')}/${nextChapter.replaceAll(' ', '_')}` : "#"}
             class="btn"
+            class:btn-disabled={!hasNext}
           >
             Next Chapter
             <Icon icon="ooui:arrow-next-ltr" class="h-5 w-5" />
