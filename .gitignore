@@ -22,4 +22,8 @@ Thumbs.db
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-/src/Publications/.obsidian/
+# Obsidian
+.obsidian/
+.stignore
+.stfolder/
+.trash/
