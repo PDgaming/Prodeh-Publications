@@ -44,7 +44,7 @@ He pulled a rolling tray over. There was a screen on it, and a small, gleaming s
 
 David's eyes widened in terror. He began to struggle against his leg cuffs. "No... please, no... I have a family..."
 
-"Family is a social construct," the man said, tapping the tablet. "Fascia, however, is a biological fact. It's much more interesting."
+"Family is a social construct," the man said, tapping the screen. "Fascia, however, is a biological fact. It's much more interesting."
 
 He leaned in. She couldn't see what he was doing. All she could hear was a tiny, wet, tearing sound. David screamed, a raw, animal sound that seemed to get absorbed by the suffocating air. It didn't echo, just died out.
 
