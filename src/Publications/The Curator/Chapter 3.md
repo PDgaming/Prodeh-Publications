@@ -1,13 +1,15 @@
-<!-- {"visibility": false} -->
+<!-- {"visibility": true} -->
 
-They are all asleep, drugged. The man moves silently among them, a ghost in his normal clothes. He checks their IV drips, ensuring the dose is correct.
+They are all asleep, drugged. Drops of a liquid flowing through the tube going into their body one by one.
 
-He stops at Ana's chair. He reaches for the tube to change the bag. His fingers brush against the port.
+The man walks into the room, moving silently like a ghost. He checks the drip going into Leo first. Everything is correct.
 
-He stops.
+Then he moves on to Ana. Admiring her beauty once again before he reaches for the tube, his fingers brushing against the port.
 
-He leans closer. The connection is loose. The drip line has been carefully disconnected from the port. A tiny bubble of air is trapped in the line.
+He stops. Something is wrong.
+
+The connection is... loose. The drip has been carefully disconnected from the port. A tiny bubble of air still trapped in the line.
 
 His eyes move to Ana's face. She is asleep, her breathing even.
 
-He stares at her for a long, long moment. He doesn't reconnect the line. He simply moves on to the next chair, his routine uninterrupted.
+He stares at her for a long, long moment. Then, he moves on to the next chair.
