@@ -1,9 +1,13 @@
 <!-- {"visibility": true} -->
 
-A stark, fluorescent-lit room. Ana sits across a table from two other detectives. Wrapped in  a blanket, a mug of coffee in her hands. She stares into the coffee, still haunted.
+Fluorescent lights hummed overhead. White walls. A metal table. Ana sat wrapped in a blanket, a mug of coffee in her hands. The ceramic was warm. She stared into the dark surface, watching the liquid tremble with the shake in her fingers.
 
-"He's gone," one of the detective says. "The house was cleaned out. By the time we got there, it was sterile." He pauses for a while, "but we found the basement. And Arthur."
+Two detectives sat across from her. One leaned forward, elbows on the table.
 
-"He's in rehabilitation," the other adds. "Physically, he'll recover. Mentally... he keeps asking for his 'Master.' He's convinced Robert will come back to punish him for failing."
+"He's gone," he said. "The house was cleaned out. Sterile. By the time we got there, there was nothing."
 
-Ana just nods, still staring into her coffee. She knows Robert isn't coming back for Arthur. Arthur was a successful experiment. The data was collected. He's obsolete.
+Ana didn't look up.
+
+The other detective spoke. "Arthur survived. He's in rehabilitation. Physically, he'll heal. Mentally..." He paused. "He keeps asking for his Master. He's convinced the man will come back to punish him."
+
+Ana only nodded. She watched the coffee in her hands. She knew he wasn't coming back for Arthur. Arthur was a finished experiment. The data had been collected. He was no longer useful.
