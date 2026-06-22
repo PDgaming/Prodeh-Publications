@@ -1,31 +1,45 @@
 <!-- {"visibility": true} -->
 
-Days, or maybe weeks, have passed. Time is meaningless in this room with no sunlight. There is no day or night, only periods of wakefulness and drugged sleep. They are fed with only an IV drip, administered by the man when they are unconscious.
+Her heartbeat was the only clock she had. She'd stopped counting them after the first few. Sleep came in chunks; she woke to the same muted light from the ceiling panels, the same thick air, the same hum in the walls. No sunrise. No sunset. Just the drip of the IV and the slow crawl of shadows that never came because there were no shadows to cast.
 
-The young boy's eyes were permanently red-rimmed. The policeman, Mark, has lost weight; his uniform now hanging loosely on his frame. David is gone. His chair is empty, cleaned so thoroughly it looks like it was never occupied.
+The boy's eyes were rimmed raw, the skin around them chapped from crying. He didn't cry anymore. Just stared.
 
-After David, the man's focus has shifted to Mark.
+The policeman's uniform hung loose on his frame now; the collar gaped, the belt sat at a new notch. He'd stopped scanning. His head hung forward most of the time.
 
-"A protector," he says, circling Mark's chair. "Your identity is intrinsically tied to your physical capability. To your hands, feet. Let us explore the source of that identity. Shall we?"
+David's chair was empty. Scrubbed clean. The concrete around it still held a faint pink tint where the bleach hadn't quite taken.
 
-He goes to the tables and picks up a pair of heavy bolt cutters.
+The man stood over Mark's chair now. Circled him slowly, footsteps soft on concrete.
 
-Mark doesn't beg. He spits. "You'll get nothing from me, you sick fuck."
+"A protector," the man said. His voice had that clinical tone again, like he was narrating a documentary. "Your identity is tied to your physical capability. Your hands. Your feet. Let's explore the source of that identity. Shall we?"
 
-"I require nothing from you," the man said as he positioned the cutters. "I require only your body. It will tell me everything."
+He walked to the second table. Picked up the bolt cutters. The handles were red, industrial, long as his forearm. He tested the grip, squeezing once; a sharp metallic clack cut through the silence.
 
-The crunch was sickeningly loud in the enclosed space. Marked screamed, a sound of pure and unadulterated agony.
+Mark lifted his head. His jaw tightened. He spat; a thick glob landed on the man's bare chest.
 
-The man worked for days. First it was the feet. Starting with the toes and moving up. Then the hands, each finger one by one. Each time, he placed the severed part into a labeled plastic baggie, which he meticulously stored in a small refrigerator in his workshop.
+"You'll get nothing from me, you sick fuck."
 
-Then, with the final humerus, Mark, the protector, is now just a torso and a head. His eyes dull and vacant.
+The man looked down at the spit on his skin. Did not wipe it off.
 
-During this time, the man's torment of the young boy, Leo, escalated too. He put headphones on the boy, forcing him to listen to distorted, looping audio: a woman crying, a man laughing, a baby screaming.
+"I require nothing from you," he said. He positioned the cutters below Mark's ankle. "I require only your body. It will tell me everything."
 
-He held the boy's head still with a belt so that he couldn't look away. Showed him images on a screen, things too quick to process but horrifying all the same.
+The crunch was wet and sharp, like a branch snapping underwater. Mark's scream came a second later; not a word, just a sound, pure and raw, filling every corner of the room.
 
-Occasionally, he would walk over and slap Leo across the face, not too hard, but just enough to keep him in a conscious.
+The man worked for days. Maybe longer. He started with the toes; each one wrapped in a labeled plastic baggie, placed in the small refrigerator under the third table. Then the feet. Then the ankles, the calves, the knees, working upward in sections. The cutters gave way to a saw, the saw to a scalpel. Each severed piece bagged, labeled, stored.
 
-She noticed it all. Observing the "ritual" the man performs. The man enters, undresses, and puts on the apron. He works, redresses, and leaves. That is the only clock she has.
+When the man finally reached Mark's hands, Mark didn't scream anymore. His eyes were open but vacant, fixed on the ceiling. He didn't flinch when the blade touched his skin.
 
-She feels the drugs the man's been giving them everyday coursing through her. A warm fog that dulls her thoughts. She fights it, tries to focus on the details; like how the way the man's hands hesitate before he makes a cut, or the flicker of what might be disappointment when someone passes out too soon.
+The man kept working. When he finished a piece, sometimes he'd bring his fingers to his mouth; a quick, absent touch, like a chef tasting a sauce. Then he'd reach for the next baggie.
+
+Somewhere in that stretch, the man turned his attention to the boy. He fitted a pair of black headphones over his's ears, adjusted the fit, pressed play. A woman sobbing. A man laughing. A baby shrieking; the sounds overlapping, distorting, looping. Leo's face crumpled. He shook his head, tried to knock the headphones off, but the man had strapped them in place with a belt cinched under the boy's chin.
+
+A screen was set up in front of his's face. Images flashed; too fast to process, but the colors stayed: red, white, flesh tones. Leo squeezed his eyes shut. The man slapped him. Not hard enough to bruise, but enough to snap his eyes open again.
+
+"Look," the man said. Soft. Firm. Like a teacher correcting a student.
+
+Leo looked.
+
+She watched it all. She cataloged every detail because it was the only thing she could still control. The ritual never changed: the man entered, undressed, donned the apron, worked on a body. When he finished, he cleaned up, dressed, and left. That was the shape of a day. The only shape she had.
+
+The drugs hummed in her veins. A warm fog that gathered at the edges of every thought, softened every sharp corner. She fought it by memorizing details: the way the man's fingers hesitated a half-second before the first cut, like a diver testing the water. The flicker across his face; disappointment, maybe; when someone passed out before he was done. The exact number of steps from the door to the workshop. Fifteen. Always fifteen.
+
+She counted everything. It kept the fog at bay.
