@@ -1,4 +1,4 @@
-<!-- {"visibility": false} -->
+<!-- {"visibility": true} -->
 
 Some people are moving boxes from a moving truck that is parked in front of a different house, in a different neighborhood, in a different state.
 
