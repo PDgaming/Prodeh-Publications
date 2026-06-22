@@ -1,53 +1,65 @@
 <!-- {"visibility": true} -->
 
-The door opened. The ritual has begun again. The man entered. The undressing. The apron.
+The door lock clunked. The man entered. Cardigan off. Folded. Sweater off. Folded. Apron on.
 
-She'd seen it many times now, but something is different today. Her heart hammers in her chest like a frantic drum against the chemical calm. She is clear-headed for the first time. The fog... is gone.
+She'd watched him do it a dozen times. But today something was different.
 
-The man walks directly to her chair. He says nothing, and works on the mechanism on her left hand. After a a series of clicks, it unlocks and he swings it open. Her hand, pale and stiff, is free.
+Her heart slammed against her ribs; hard, real, a fist pounding from the inside. The chemical fog that usually sat behind her eyes had burned off. Every detail came through sharp and bright: the grain of the concrete floor, the stray thread on the man's apron, the ceiling panels glowing steady and clinical above.
 
-She felt something strong that told her to punch him. But she doesn't know what he is planning to do. She can't risk it, not yet.
+The man walked straight to her chair.
 
-The man then does the same to her right hand. Then moves down to her leg cuffs.
+He didn't speak. He reached for the mechanism on her left armrest. His fingers found a latch, twisted it; a series of clicks, and the metal box around her hand swung open on a hinge.
 
-She waits patiently for him to open both her legs.
+Her hand was there. Pale, stiff, fingers curled slightly. She hadn't seen it in; she didn't know how long. It looked foreign. Dead.
 
-And with the final click, her legs are free too.
+Something screamed inside her to swing it, to drive her palm into his face. But she held still.
 
-This is it.
+He worked the right armrest next. Another series of clicks. Her right hand came free. Then he moved down to her legs.
 
-She draws her legs up, her muscles screaming in protest after weeks of atrophy, and kicks him with all her might.
+She waited.
 
-The man grunts, stumbling, crashes into his tool table. The Instruments clattering to the floor.
+One cuff opened. Then the other.
 
-She is unsteady, but the pure adrenaline is fuel enough. She grabs the heaviest thing she can find, a heavy steel mallet. The cold weight of it in her hand is the most real thing she has felt since waking up.
+This was it.
 
-The man pushes himself up, turning to face her. There is no fear in his eyes. No surprise. He doesn't raise his hands to defend himself. He doesn't speak.
+She drew her knees to her chest; muscles screamed, joints cracked, weeks of stillness punishing every inch of movement, and drove both feet into his chest.
 
-She lunges, swinging the mallet. The first blow catches him in the shoulder. He grunts, stumbling back, but his expression doesn't change. She swings again, a wild, clumsy arc, and it connects with his ribs. A sickening crack. He falls to his knees, his breath coming in ragged gasps, but he still just watches her.
+He grunted, stumbled backward, crashed into the tool table. Instruments clattering to the floor; scalpels, clamps, the handsaw skittering across concrete.
 
-She moves closer, standing over him, the mallet raised. She can end it. She can crush his skull.
+She stood. Her legs buckled. She caught herself on the armrest, forced her knees straight. Adrenaline poured through her like a lit fuse. She grabbed the heaviest thing within reach; a steel mallet, its head slick with something dark. The cold weight in her palm was the most real thing she'd felt since waking up.
 
-But she sees it in his eyes, that is what he wants. Not the pain, but the data. The reaction. The entropy.
+The man pushed himself up. Turned to face her.
 
-She drops the mallet. It clatters to the floor, the sound loud and final.
+No fear in his eyes. No surprise. He didn't raise his hands. Didn't speak. Just watched.
 
-She looks around the room before noticing Arthur. The one who has been watching the entire exchange with a placid, unwavering gaze.
+She lunged.
 
-She walks over to the crude table and picks up the handsaw, its teeth rusty and menacing. She doesn't look at the man, only walks toward Arthur.
+The mallet caught him in the shoulder. He grunted, stumbled sideways, but his expression didn't change; not pain, not anger. Just that flat, watchful stillness from The Void. She swung again, wild, clumsy, and the head connected with his ribs. A crack; sharp, satisfying. He dropped to his knees, breath ragged, one hand pressed to his side. He looked up at her.
 
-Arthur didn't flinch or cry out as she approached. He only continued watching her walk towards him.
+Still watching.
 
-When she reached Arthur's chair, she looked at him for a second. Then, without any hesitation, pressed the serrated edge of the saw against his throat. The old man's skin is paper-thin. She can feel his pulse, a slow and steady rhythm against the steel.
+She stood over him, mallet raised above his skull. One swing. That's all it would take.
 
-"Open the door," she said, her voice a low growl. Still keeping her eyes locked on Arthur's.
+His eyes. She saw it in his eyes; not fear, not pleading. Anticipation. He wanted this. Not the pain. The reaction. The data. Another variable to note.
 
-For the first time, a change crossed the man's face. It's not fear. But rather it's... disappointment. Not in her, but in himself. He miscalculated. He assumed the variable was her will to live. He didn't account for her will to manipulate. He was so focused on the pieces, he forgot one was a detective.
+She dropped the mallet. It hit the floor with a clang that rang through the room and died.
 
-Slowly, painfully, the man got to his feet. He limps toward the door, his body a broken map of her rage, and placed his hand on the biometric pad.
+She looked around. Arthur sat in his chair, watching her with placid, unworried eyes. He hadn't moved through the whole fight.
 
-The door clicked open with a heavy thunk.
+She walked to the tool table. Picked up the handsaw; the rusty one, its teeth brown and uneven. She didn't look at the man. Walked toward Arthur.
 
-She doesn't hesitate. She pulls the saw away from Arthur's throat and runs.
+Arthur didn't flinch. Didn't cry out. His eyes followed her approach, calm and steady.
 
-She scrambles up the concrete stairs, away from the warmth, the smell, the silence, and into the unknown.
+She stopped in front of his chair. Pressed the serrated edge against his throat. His skin was paper-thin; she could feel his pulse through the steel, slow and steady.
+
+"Open the door." Her voice came out low, rough, not sounding like her own. Her eyes stayed locked on Arthur's.
+
+Something crossed the man's face for the first time. Not fear. Not anger. Disappointment. Directed inward. His lips pressed together. The Facade cracked; he had miscalculated.
+
+He got to his feet slowly, painfully, one hand braced against his ribs. He limped to the door. Raised his palm to the biometric pad.
+
+The lock clicked open. The door swung inward with a heavy thunk.
+
+She pulled the saw from Arthur's throat. Ran.
+
+Her bare feet slapped the concrete stairs. Up. Away from the warmth, the smell, the hum in the walls. Away. Into the dark of the stairwell.
