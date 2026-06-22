@@ -1,53 +1,59 @@
 <!-- {"visibility": true} -->
 
-The first thing Ana could feel was the throbbing pressure in the skull. She opened her eyes, only to be met with a brown wall that had nothing on it. Not her photos with her husband, or her mother, nothing. She wasn't in her house.
+A thick, rhythmic pounding pushed against the inside of her skull. Her eyelids fluttered open.
 
-The sedative had started wearing off. She was sitting in a heavy metal chair. She tried to stand up, but her legs were clamped to it by thick, padded cuffs. She tried to reach them, but her chest was tied to the chair too. Her arms were on the armrests, but her hands... were gone. Instead, there was a metal contraption where it seemed like her hands just vanished. She tried to wiggle her fingers. A sharp pain from the mechanism rewarded her effort.
+Brown wall. Blank No wedding photo, no mother's portrait, no hairline crack she'd memorized over years of sleepless nights. The wallpaper was wrong, the texture unfamiliar. She wasn't in her bedroom. She wasn't in any room she knew.
 
-She took a deep breath, trying to calm her mind, analyse the situation, and find a solution. She had done it a thousand times before, she can do it now, too.
+The world swam back in slow waves. She was in a chair. Cold metal pressed against the backs of high thighs. She pushed up to stand; her legs didn't budge. Thick padded cuffs held her ankles to the chair legs. She twisted, reached down; a strap crossed her chest, pinning her torso to the backrest. Her arms lay on padded armrests. She looked for her hands.
 
-The room seems to be a basement. Barely any light, and no windows.
+There was nothing there.
 
-She looked around. Five chairs in the middle of the room, including hers. To her right, a teenage boy slumped in his chair. A thin line of drool escaped his lips. Next to him, a man in his forties, staring blankly ahead, his shirt stained with sweat.
+Two metal boxes sealed at the wrists, where her fingers should be. She commanded them to curl. Something shifted inside; pins pressed into her fingertips, a gear bit into her knuckles. Pain threaded up her forearm, thin and electric. She tried again. harder. The pins dug deeper. Her fingers hand't moved. Not a millimeter.
 
-To her left, a man in a police uniform, rigid, with his jaw set, his eyes scanning something in the shadows. And then next to him, an old man. He is perfectly still, his posture unnervingly good, his gaze fixed on the door.
+She forced her breath slow. In through the nose. Out through the mouth. Her lungs obeyed. She's done this before. Calmed herself on the edge of a raid, steadied her hands before an interview, breathed through worse. She could do it again.
 
-Beyond the chairs, there was a sectioned-off area, something that seemed like a workshop. Three tables pushed against the concrete walls. She could see surgical instruments on one of them; the other had bold cutters, hammers, and a handsaw. And the third was a mess of wires and electronics.
+Concrete walls. Panels in the ceiling glowed muted and clinical, casting no shadows; every corner of the room visible, flat, exposed. No windows. The air was thick and warm, heavy with old sweat and something else; a sweetness, chemical, at the back of her throat. The weight of the whole house pressed down from above.
 
-There is absolute silence in the room, broken only by the sound of their own breathing and a low, almost subliminal hum from something in the walls.
+Five chairs in a semicircle, bolted to the floor. She counted them twice. To her right: a teenage boy, head lolled forward, a thing string of drool hanging from his lip. Beside him. a man in his forties stared at nothing, his shirt dark with sweat at the pits and collar, his lips moving soundlessly.
 
-The door swings open with a heavy clunk.
+To her left: a police uniform; the navy blue, crisp, badge still pinned. The man inside it sat rigid, jaw set, eyes moving, tracking something beyond the cricle of chairs. Next to him: an old man. He could have been carved from limestone. Straight-backed; hands still in their metal boxes, his gaze fixed on the steel door in the far wall.
 
-A man enters, late seventies, with a white mustache and kind eyes. He was wearing a simple cardigan and slacks, someone who looked like someone's grandfather. He carried a paper grocery bag.
+Beyond the chairs, the basement widened into a workshop alcove. Three tables hugged the walls. The first gleamed; scalpels, retractors, clamps arrangd in neat rows. The second: bolt cutters, a sledgehammer, a handsaw and rust flaking off its teeth. The third was a tangle of wires, screens, and black headphones coiled like snakes.
 
-She thought for a second that he was going to help them, but she knew better than that.
+Silence pressed in from all sides. Just breathing; five sets of lungs, uneven, ragged, shallow. And beneath it, a hum so low she felt it in her molars before she heart it. Somewhere inside the walls. Always there. Always had been.
 
-The man closed the door behind him, the sound echoing in the room.
+The door lock disengaged with a heavy clunk.
 
-He didn't look at them, but her gaze was fixed on him. He walked calmly to the workshop area and placed the bag on the table.
+The man was in his late seventies. White mustache, soft eyes, a cardigan buttoned over a sweater. He could have been someone's grandfather. He carried a brown paper grocery bag, one arm wrapped around the bottom like he was bringing home produce.
 
-He took off his cardigan, folded it neatly, and kept it on the table before removing his trousers, then his shirt, and finally his shoes. He folded each piece and placed it in a neat pile. His pale, frail body looked completely vulnerable and absurd.
+For one stupid second something in her chest lifted; rescue, help, a mistake, but she swallowed it down. She knew a lie when she saw one.
 
-He reached towards the wall and pulled a long, transparent plastic apron from a hook and tied it behind his neck. She noticed his eyes go flat; the gentle slouch was replaced by a rigid posture.
+The door shut behind him. The echo died fast, smothered by concrete.
 
-He turned to them, his gaze swiping over them. And then it lands on the old man beside the policeman.
+He didn't look at them. Her eyes stayed on him. He walked to the workshop table, set the bag down, unhurried. Like he had all the time in the world.
 
-"Good morning, Arthur," he said in a soft and almost gentle voice.
+He took off his cardigan. Folded it. Placed it on the table. Then his sweater. Fold. Place. His trousers, his shirt, his shoes; each piece folded into neat rectangles, stacked in a growing pile. His body was pale and thin, veins tracing blue rivers across his forearms.
 
-Arthur's head lifted. A flicker of something like joy crossed his face. "Good morning, Master."
+He reached for the wall and unhooked a long clear plastic apron from a peg. Tied it behind his neck, then around his back. His eyes changed as he did it; not a switch but a draining, the warmth behind them washing out to something flat and still. His shoulders straightened. The slouch was gone.
 
-The man nodded. He walked past Arthur, the policeman, her, the boy, completely ignoring them, before stopping near the man still staring ahead.
+He turned. His gaze swept across them; the boy, the middle-aged man, her, the policeman, and stopped on the old man.
 
-He pulled a rolling tray over. There was a screen on it, and a small, gleaming scalpel.
+"Good morning, Arthur." Soft. Almost kind.
 
-"David," the man started in a clinical voice. "Today, we begin with the superficial fascia of the abdomen. Please try to remain still. The tutorials I've found suggest excessive movement can lead to imprecise incisions."
+Arthur's head came up slowly, like a plant turning toward light. Something moved across his face; not fear, not relief. Joy. The corners of his mouth lifted. "Good morning, Master."
 
-David's eyes widened in terror. He began to struggle against his leg cuffs. "No... please, no... I have a family..."
+The man nodded. Walked past Arthur. Past the policeman. Past her. Past the boy. Stopped beside the middle-aged man.
 
-"Family is a social construct," the man said, tapping the screen. "Fascia, however, is a biological fact. It's much more interesting."
+A rolling tray sat nearby. On it: a tablet screen glowing with anatomical diagrams, and a scalpel, its blade catching the muted light.
 
-He leaned in. She couldn't see what he was doing. All she could hear was a tiny, wet, tearing sound. David screamed, a raw, animal sound that seemed to get absorbed by the suffocating air. It didn't echo, just died out.
+"David," the man said, his voice now clinical, detached, as if reading from a chart. "Today we begin with the superficial fascia of the abdomen. Try to remain still. The tutorials I've watched suggest excessive movement can lead to imprecise incisions."
 
-She squeezed her eyes, but couldn't block out the sound. Or the smell. The coppery tang of blood mixed with the stale air.
+David's eyes went wide. He thrashed against the cuffs; metal clanked against metal, the chair scraped the concrete. "No. Please. No. I have a family-"
 
-The man works for what feels like an eternity. After it was over, he murmured to himself, "Hmm, a bit more lateral... yes, that's the plane..."
+"Family is a social construct," the man said, tapping the tablet. "Fascia is a biological fact. Much more interesting."
+
+He leaned forward, his back blocking the view. She heard it before she understood it; a tiny, wet tearing sound, precise, surgical. Then David screamed. Not a human sound. Something raw and animal, ripped from somewhere deep, swallowed by the thick air. No echo. The room ate it.
+
+She squeezed her eyes shut. But the sound still found her. So did the smell; copper and salt, fresh blood cutting through the stale air like a blade.
+
+The man worked. Minutes or hours; she couldn't tell. Finally he straightened, tilted his head, studied something she couldn't see. He touched two bloody fingers to his lips. Considered. Murmured to himself. "Hmm. A bit more lateral. Yes. There's the plane."
