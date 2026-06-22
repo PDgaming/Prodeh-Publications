@@ -1,15 +1,19 @@
 <!-- {"visibility": true} -->
 
-They are all asleep, drugged. Drops of a liquid flowing through the tube going into their body one by one.
+Slow, shallow breaths filled the room. Three bodies, slumped in their chairs. The IV tubes hissed softly, liquid traveling drop by drop toward their wrists.
 
-The man walks into the room, moving silently like a ghost. He checks the drip going into Leo first. Everything is correct.
+The door opened. The man entered on bare feet; no sound but the soft pad of skin on concrete.
 
-Then he moves on to Ana. Admiring her beauty once again before he reaches for the tube, his fingers brushing against the port.
+He checked Leo first. Bent over the boy's IV line, eyes tracking the drip chamber, the tubing, the port site. Everything in order. He straightened.
 
-He stops. Something is wrong.
+He moved to her chair. Stopped beside it. For a moment he just looked at her face; the curve of her jaw, the stillness of her closed lids. His fingers reached for the IV line.
 
-The connection is... loose. The drip has been carefully disconnected from the port. A tiny bubble of air still trapped in the line.
+They stopped.
 
-His eyes move to Ana's face. She is asleep, her breathing even.
+The connection was loose. The tubing had been pulled free of the port; cleanly, carefully. A single bubble of air clung to the tip of the needle, trembling.
 
-He stares at her for a long, long moment. Then, he moves on to the next chair.
+His eyes moved to her face. Her breathing was even. Her lashes didn't flutter.
+
+He stared at her for a long moment. The bubble trembled in the needle's tip.
+
+He let go of the line. Turned. Walked to the next chair.
