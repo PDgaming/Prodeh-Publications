@@ -1,17 +1,21 @@
 <!-- {"visibility": true} -->
 
-The door at the top is plain wood. She bursts through it and collapses onto the floor of a normal, carpeted hallway. The air is cool and fresh. Sunlight streaming through a window at the far end. It's so bright it hurts her eyes. She can hear birds chirping.
+The door at the top was plain wood. She threw her shoulder into it, stumbled through, and collapsed onto carpet.
 
-Ana gets to her feet, her legs shaking.
+The air hit her; cold, clean, moving. She sucked it in until her lungs ached.
 
-She's in a suburban home. Family photos on the walls. A coat rack.
+Sunlight poured through a window at the end of the hallway. She blinked, raised a hand against it. Too bright. It burned. Outside, birds called to each other.
 
-It's perfect.
+She pushed herself up. Her legs shook. Her knees threatened to fold.
 
-It's mundane.
+A suburban home. Carpeted hallway. Family photos in matching frames; a woman smiling, two children, a golden retriever. A coat rack with a jacket hanging from it.
 
-It's horrifying.
+Everything in its place. Normal. A life, lived.
 
-She knows this house. Not personally, but from a file. A person of interest in a case she was working on, a case that had gone cold. A dead end. He was closer than she ever knew.
+She knew this house. Not the address; but a file she'd read. A person of interest in a cold case. A dead end she'd closed and shelved. He'd been right here, living above the basement, while she'd been looking in the wrong city.
 
-She finds the front door, and makes a final dash to it. She fumbles with the lock, but when it unlocks, she stumbles out into the blinding sun of a quiet, tree-lined street.
+The front door. She limped toward it, one hand against the wall for balance. The lock was a simple deadbolt. She turned it. Pulled.
+
+The door swung open. Sunlight washed over her, warm and blinding. A quiet street. Trees. A sprinkler hissing on a lawn.
+
+She stepped out. The door clicked shut behind her.
