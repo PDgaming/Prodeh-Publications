@@ -1,0 +1,26 @@
+# Robert
+- 2029, 19 - Moves to US
+- 2031, 21 - Meets Peter(64)
+- 2033, 23 - First job
+- 2038, 28 - Peter dies
+- 2040, 30 - Meets wife
+- 2043, 33 - Married
+- 2044, 34 - First kill
+- 2046, 36 - Joins Mafia
+- 2048, 38 - Wife dies
+- 2049, 39 - Kidnapped
+- 2059, 49 - Escape
+- 2060, 50 - Meet zero
+- 2066, 56 - Becomes mentor
+- 2070, 60 - Landslide incident
+- 2071, 61 - Retirement
+- 2072, 62 - Meets David
+- 2073, 63 - Moves to Canada
+- 2074, 64 - Married
+- 2075, 65 - Heist
+- 2077, 67 - Censor War, David dies
+- 2078, 68 - Zero dies
+- 2079, 69 - Flint becomes leader
+- 2080, 70 - Robert Comeback
+- 2081, 71 - Surrenders 
+- 2131, 121 - Out of Prison, Octo War, End
